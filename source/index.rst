@@ -1,7 +1,5 @@
-Welcome to Big Data's documentation!
-====================================
-
-Contents:
+Big-Data
+========
 
 .. toctree::
    :maxdepth: 2
@@ -9,12 +7,6 @@ Contents:
    examples_for_discussion
    data_sets
    tutorials/tutorials
+   assignments/assignments
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
