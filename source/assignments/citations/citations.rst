@@ -8,6 +8,7 @@ Assignment
 
 * Write a paragraph that states information
 * Use at least two proper citations to back up that information
+* Use MLA_ as your citation style.
 
 Assignment Goals
 ^^^^^^^^^^^^^^^^
@@ -140,3 +141,5 @@ Sample Questions
 * Is the high school dropout rate increasing?
 * Do statistics support that there is a "war on cops?"
 * Is the rate of suicide increasing?
+
+.. _MLA: https://owl.english.purdue.edu/owl/resource/747/01/

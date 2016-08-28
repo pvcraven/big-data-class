@@ -38,6 +38,7 @@ Politics
 * `Brexit Vote <http://www.bbc.com/news/uk-politics-36616028>`_
 * `Republican vs. Democrat Occupations <http://verdantlabs.com/politics_of_professions/>`_
 * `100 Years of Presidential Elections <https://www.reddit.com/r/dataisbeautiful/comments/3pxna7/100_years_of_us_presidential_elections_a_table_of/>`_
+
 Society
 -------
 * `Ashley Madison <http://dadaviz.com/s/ashley-madison-revealed/>`_
@@ -54,5 +55,4 @@ Science
 
 Climate Change
 --------------
-* `
-Changing opinions on climate change, from a CNN meteorologist <http://www.cnn.com/2016/08/24/opinions/chad-myers-climate-change-weather/index.html>`_
+* `Changing opinions on climate change, from a CNN meteorologist <http://www.cnn.com/2016/08/24/opinions/chad-myers-climate-change-weather/index.html>`_
