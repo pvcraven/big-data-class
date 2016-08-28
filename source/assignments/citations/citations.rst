@@ -118,7 +118,9 @@ Schedule for the Assignment
 * Twenty minutes to pick data.
 * Twenty minutes to create slides
 * Prep presentation. Two PowerPoint slides, one paragraph and one citation slide.
-* Due start of class Thursday.
+* Some of this, you'll likely need to do outside of class. You will some time to review
+  this on Thursday with myself, Maddy, and Christopher on Thursday.
+* Due at end of class Thursday.
 * We will go through them in a week. I won’t associate names with paragraphs.
 
 Sample Questions
