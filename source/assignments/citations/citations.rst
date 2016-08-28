@@ -72,14 +72,21 @@ Assignment 2:
 
     News Max Health. "Smartphones Can Cause Insomnia: Harvard Smartphones Can Cause Insomnia: Harvard.“ Bloomberg News, 7 Jan. 2014. Web. 1 Sept. 2015.
 
-Bad Paragraph Example
-^^^^^^^^^^^^^^^^^^^^^
+Bad Assignment Examples
+^^^^^^^^^^^^^^^^^^^^^^^
 
-Assignment:
+Assignment 1:
 
     Which Sport is More Dangerous? Football or Rugby?
 
     In football, the injury rate per 1000 hours is 35.3. Most of those injuries occur in the leg area. Rugby’s rater per 1000 hours is 69. That rate makes rugby the “most dangers” team sport in the world. Rugby also averages about 1.4 serious injuries per game.
+
+Assignment 2:
+
+    League of Legends a sport?
+
+    League of Legends is a booming game that has player and fan base that is rising at extreme rates.  This leads to the question, is League of Legends a sport?  Some might think not but “Riot Games” the developer of League of Legends thinks otherwise.  Riot Games reports increases in their player base over just a few years; it rose from 12 million players daily to 27 million in just over a year (Tassi, Jan. 27th, 2014) .  The huge number of people that play League of Legends is really shown when compared to Call of Duty.  The numbers for Call of Duty players combined monthly in the year 2011 only had 40 million players (Tassi, Jan. 27th, 2014).  Many other things that are similar to professional sports include participation in tournaments, trading players during the off season, and a final championship that millions of people watch (Holly, Jul. 15th, 2013).
+
 
 Bad Citation Examples
 ^^^^^^^^^^^^^^^^^^^^^
@@ -117,7 +124,19 @@ Sample Questions
 ^^^^^^^^^^^^^^^^
 
 * Who is the best player in sport <name sport>?
+
+    * Is Ed Walsh as good as Cy Young? (baseball)
+    * Is Aaron Rodgers the best quarterback in the NFL?
+
 * Who do we get our oil from?
 * What does the U.S. spend the most money on?
-* What are the best paying jobs?
-* What are the most common ways of dying for twenty year olds?
+* What is the number one killer in the U.S.?
+
+    * What are the most common ways of dying for twenty year olds?
+
+* What is the best subject to major in at college?
+* What is the best paying job in the U.S.?
+* How likely is a student to drop out of college?
+* Is the high school dropout rate increasing?
+* Do statistics support that there is a "war on cops?"
+* Is the rate of suicide increasing?

@@ -51,3 +51,8 @@ Science
 -------
 * `Radiation Levels <https://xkcd.com/radiation/>`_
 * `Black Hole Sizes <https://www.youtube.com/watch?v=QgNDao7m41M>`_
+
+Climate Change
+--------------
+* `
+Changing opinions on climate change, from a CNN meteorologist <http://www.cnn.com/2016/08/24/opinions/chad-myers-climate-change-weather/index.html>`_
