@@ -44,6 +44,7 @@ Finance
 Politics
 --------
 * `Donald Trump is wrong that 'inner-city crime is reaching record levels' <http://www.politifact.com/truth-o-meter/statements/2016/aug/30/donald-trump/donald-trump-wrong-inner-city-crime-reaching-recor/>`_
+  (9/1/16)
 * `Brexit Vote <http://www.bbc.com/news/uk-politics-36616028>`_
 * `Republican vs. Democrat Occupations <http://verdantlabs.com/politics_of_professions/>`_
 * `100 Years of Presidential Elections <https://www.reddit.com/r/dataisbeautiful/comments/3pxna7/100_years_of_us_presidential_elections_a_table_of/>`_
