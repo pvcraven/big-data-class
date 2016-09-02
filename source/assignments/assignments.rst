@@ -5,3 +5,4 @@ Assignments
    :maxdepth: 1
 
    citations/citations.rst
+   excel/excel.rst
