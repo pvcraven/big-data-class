@@ -92,15 +92,33 @@ Assignment 2:
 Bad Citation Examples
 ^^^^^^^^^^^^^^^^^^^^^
 
-http://simpsonathletics.com/sports/fball/2014-15/schedule
+Don't use a URL:
 
-2013-14 Memphis Grizzlies. (n.d.). Retrieved February 27, 2015, from http://www.basketball-reference.com/teams/MEM/2014.html
+  http://simpsonathletics.com/sports/fball/2014-15/schedule
 
-List of United States university campuses by enrollment. (n.d.). Retrieved October 23, 2014.
+The dictionary is never a source:
 
-"Graduation Rate Trends 1999-2000 to 2009-2010." Education Week. N.p., n.d. Web. 03 Sept. 2015.
+  "Stress." Merriam-Webster. Merriam-Webster, 2016. Web. 01 Sept. 2016.
 
-"11 Facts About High School Dropout Rates." 11 Facts About High School Dropout Rates. N.p., n.d. Web. 03 Sept. 2015.
+You can probably guess at least a year:
+
+  2013-14 Memphis Grizzlies. (n.d.). Retrieved February 27, 2015, from http://www.basketball-reference.com/teams/MEM/2014.html
+
+No clue where this came from:
+
+  List of United States university campuses by enrollment. (n.d.). Retrieved October 23, 2014.
+
+Wait, you listed the publisher, but then said n.p.? And no date?
+
+  "Graduation Rate Trends 1999-2000 to 2009-2010." Education Week. N.p., n.d. Web. 03 Sept. 2015.
+
+No way I'd find this again. It is basically saying "Here's this random thing
+I found on the Internet. I'm not even going to tell you where I found it."
+
+  "11 Facts About High School Dropout Rates." 11 Facts About High School Dropout Rates. N.p., n.d. Web. 03 Sept. 2015.
+
+Oh, and never list Google as your source. That is like listing the library as your
+source.
 
 Using Citation Generators
 ^^^^^^^^^^^^^^^^^^^^^^^^^

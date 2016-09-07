@@ -18,3 +18,8 @@ Education
 ---------
 
 * `NCAA Graduation Success Rates <http://www.icpsr.umich.edu/icpsrweb/NCAA/studies/30022>`_
+
+Economy
+-------
+
+* `US Oil Imports <https://www.eia.gov/dnav/pet/pet_move_impcus_a2_nus_ep00_im0_mbbl_m.htm>`_
