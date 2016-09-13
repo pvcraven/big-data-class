@@ -23,3 +23,13 @@ Economy
 -------
 
 * `US Oil Imports <https://www.eia.gov/dnav/pet/pet_move_impcus_a2_nus_ep00_im0_mbbl_m.htm>`_
+
+Entertainment
+-------------
+
+* `Pokemon Stats <https://www.kaggle.com/abcsds/pokemon>`_
+
+Misc
+----
+
+* `Kaggle Data Sets <https://www.kaggle.com/datasets>`_ Lots of different data sets and some analysis tools as well.
