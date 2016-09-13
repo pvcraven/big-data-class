@@ -51,6 +51,7 @@ Thursday will be "library day" to work on this.
 * Spend time "prepping" so that you have the format of the bibliography
   all ready. That is, make sure your file is ready to start entering info, so you
   don't spend the time messing about with formatting rather than doing research.
+* See the example annotated bibliography on Scholar.
 * Try finding a few starter resources before you even get to class. This will give you more
   time to ask questions in class and get feedback. Otherwise you might be stuck
   with questions when you don't have anyone to answer them.
