@@ -22,7 +22,7 @@ written:
 * Fitbits and More - Personal Big Data
 
 To get started, find some facts. Do some research and gather ideas. A great way
-to do this is to create an annotated bibliography for your report.
+to do this is to create an `annotated bibliography`_ for your report.
 
 The bibliography must have:
 
@@ -68,3 +68,5 @@ Grading rubric:
     :alt: alt
 
 Next assignment will be to create an outline, then we will write the paper.
+
+.. _annotated bibliography: https://owl.english.purdue.edu/owl/resource/614/03/
