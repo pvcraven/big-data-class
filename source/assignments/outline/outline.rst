@@ -26,5 +26,11 @@ You should include:
   Figure out how to bring this paper to a strong close.
 * Double check to make sure your points support the thesis.
 
+Here's the grading rubric:
+
+.. image:: rubric.png
+    :width: 550px
+    :align: center
+    :alt: Rubric
 
 .. _thesis statement: https://owl.english.purdue.edu/owl/resource/545/01/
