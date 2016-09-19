@@ -1,5 +1,5 @@
-Assignment 2 - Basic Excel
---------------------------
+Assignment 2: Basic Excel
+-------------------------
 
 Open a new Excel document.
 

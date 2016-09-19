@@ -61,13 +61,14 @@ Thursday will be "library day" to work on this.
   staff to help you in your research.
 * Finish the bibliography outside of class, and upload to Scholar.
 
+Next assignment will be to create an outline, then we will write the paper.
+
 Grading rubric:
 
 .. image:: rubric.png
-    :width: 500px
+    :width: 470px
     :align: center
     :alt: alt
 
-Next assignment will be to create an outline, then we will write the paper.
 
 .. _annotated bibliography: https://owl.english.purdue.edu/owl/resource/614/03/

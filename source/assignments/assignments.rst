@@ -7,3 +7,4 @@ Assignments
    citations/citations.rst
    excel/excel.rst
    annotated_bibliography/annotated_bibliography.rst
+   outline/outline.rst

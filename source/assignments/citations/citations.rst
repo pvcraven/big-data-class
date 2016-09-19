@@ -1,5 +1,5 @@
-Assignment 1 - Citations
-------------------------
+Assignment 1: Citations
+-----------------------
 
 Use Data and Citations to Transform an Argument
 
