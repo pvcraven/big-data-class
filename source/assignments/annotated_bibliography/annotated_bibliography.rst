@@ -28,7 +28,8 @@ The bibliography must have:
 
 * Five or more sources.
 
-  * One source must be a book.
+  * One source must be a book. You **must** identify in your annotated bibliography
+    which of these is a book.
   * One source must be an article that isn't exclusively for the web.
   * One source must come from the web.
 
