@@ -43,6 +43,7 @@ Finance
 
 Politics
 --------
+* `FiveThirtyEight Election Forecast <http://projects.fivethirtyeight.com/2016-election-forecast/>`_
 * `Donald Trump is wrong that 'inner-city crime is reaching record levels' <http://www.politifact.com/truth-o-meter/statements/2016/aug/30/donald-trump/donald-trump-wrong-inner-city-crime-reaching-recor/>`_
   (9/1/16)
 * `Brexit Vote <http://www.bbc.com/news/uk-politics-36616028>`_
