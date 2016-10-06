@@ -6,3 +6,4 @@ Tutorials
 
    excel/excel.rst
    outline/outline.rst
+   processing_names/processing_names.rst
