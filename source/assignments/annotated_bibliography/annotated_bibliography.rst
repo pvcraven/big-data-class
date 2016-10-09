@@ -2,8 +2,13 @@ Assignment 3: Annotated Bibliography
 ====================================
 
 You will be writing a report on 'Big Data' and its impact on *something*.
-You get to pick that something. Here are some prior paper titles students have
-written:
+You get to pick that something.
+
+Remember, the topic *must* tie into Big Data. The most common grade-killing
+mistake with this paper is to write a paper that has nothing to do with Big Data,
+or only have the smallest link to Big Data.
+
+Here are some prior paper titles students have written:
 
 * Big Data Baseball: Defensive Sabermetrics
 * Big Data + Fantasy Football = Success
@@ -37,11 +42,19 @@ The bibliography must have:
 * Annotate each entry. That is, write about:
 
   * What the resource says.
-  * Talk about the relevance of the article to your paper. That is, how would
-    you use it?
+  * Talk about the relevance of the article to your paper.
+    That is, how would you use it? What does it have to do with Big Data?
+    You might have one source that doesn't have to do with Big Data, and just
+    give background information, but if you don't see the tie-in of the source
+    to Big Data, you need to keep looking.
   * Talk about the accuracy.
-  * Talk about the bias of the article.
-  * Talk about the quality of the source.
+  * Talk about the bias of the article. People often forget this part.
+    Don't. And remember, just
+    because a paper has only numbers of facts does not make it unbiased. Just
+    because a paper comes from a ``.org`` website doesn't mean it is unbiased.
+    If you are unsure about this part, ask.
+  * Talk about the quality of the source. The Washington Post is a higher quality
+    source than BuzzFeed. Why?
 
 
 Thursday will be "library day" to work on this.
