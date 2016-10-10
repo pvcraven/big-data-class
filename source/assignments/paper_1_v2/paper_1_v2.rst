@@ -19,3 +19,4 @@ This version will be graded, as long as you have turned in version 1.
 * Make sure the tie-in to Big Data is clear.
 * Proof-read the first paragraph multiple times. Say it out loud. This is the
   most important paragraph to get right.
+* Check to make sure you do not introduce new topics in your conclusion.
