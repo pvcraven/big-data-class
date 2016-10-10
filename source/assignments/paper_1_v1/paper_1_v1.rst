@@ -11,6 +11,9 @@ Otherwise there will be **no grade** for version 2.
 * Minimum 1,000 words for the body of the paper.
   This does not include the title or bibliography.
 * Your thesis should be the last sentence of the first paragraph.
+* Do not use first person references. Avoid second person references.
+  No "I", "me", "you."
+* Spell out numbers ten or less.
 * Paragraphs should be about five sentences long. Follow
   `P.I.E. <https://awc.ashford.edu/essay-dev-pie-paragraph.html>`_ when
   creating your paragraph.
