@@ -12,6 +12,7 @@ Meta-sets
 * `Kaggle Data Sets <https://www.kaggle.com/datasets>`_ Lots of different data sets and some analysis tools as well.
 * `Google Public Data <https://www.google.com/publicdata/directory>`_
 * `Amazon Public Datasets <https://aws.amazon.com/datasets/>`_
+* `Awesome Public Datasets <https://github.com/caesar0301/awesome-public-datasets>`_
 
 Health
 ------
@@ -43,16 +44,36 @@ Economy
 
 * `US Budget, Deficit, and Debt <https://www.whitehouse.gov/omb/budget/historicals>`_
 * `US Oil Imports <https://www.eia.gov/dnav/pet/pet_move_impcus_a2_nus_ep00_im0_mbbl_m.htm>`_
+* `Minnesota Public Payroll Data <https://mn.gov/mmb/transparency-mn/payrolldata.jsp>`_
 
 Entertainment
 -------------
 
 * `Pokemon Stats <https://www.kaggle.com/abcsds/pokemon>`_
 
-
-
 Sports
 ------
 
 * `College Football Statistics <http://www.cfbstats.com/>`_
 * `NCAA Statistics <http://web1.ncaa.org/stats/StatsSrv/careersearch>`_
+
+Weather
+-------
+
+Weather from NOAA (`Site <https://www.ncdc.noaa.gov/cdo-web/datasets>`_, `FTP <ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/>`_)
+
+File info:
+
+* weather/ghcnd-stations.txt -- List of stations. Egrep what you want
+* weather/*.dly -- Weather files. Format description is `here <ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt>`_
+
+Example processing weather data:
+
+* ``egrep TMAX USC00134063.dly | sed 's/^.\{11\}//' | sed 's/[0−9] .*/\1/' | sed 's/TMAX//' | sed 's/^[* 0−9]{4}/\1 /' | sed 's/^.{11}[0−9]/\1\.\2/' > ../craven.csv``
+* ``egrep TMAX USC00134063.dly`` # Search the text file for 'TMAX* ' which is the temperature maximum
+* ``sed 's/^.\{11\}//'`` # Use sed and regular expressions. From * the beginning of the line, remove 11 characters
+* ``sed 's/[0−* 9] .*/\1/'`` # Use sed to remove all of the line after the last temp reading.
+* ``sed 's/TMA* X//'`` # Remove the TMAX from the line
+* ``sed 's/^[0−9]{4}/\1 /'`` # Add a space after the year so it doesn't run into the month
+* ``sed 's/^.{11}[0−9]/\1\.\2/'`` # Add a decimal into the number, because 345 is actually 34.5
+* ``> ../craven.csv`` # Redirect to a file. Do it one directory up because there are way too many files here
