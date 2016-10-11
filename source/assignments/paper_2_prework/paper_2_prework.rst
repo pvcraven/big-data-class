@@ -47,9 +47,16 @@ The final paper should have the following parts:
 * Also - Upload your supporting Excel files.
 * The paper should have 1,000 words or more.
 
-However, this part of the assignment is just the pre-work.
+However, this part of the assignment is just the pre-work. For this assignment
+I am looking for:
 
-* Initial data analysis (in MS Word format)
-* An outline
-* A bibliography
-* Supporting Excel files
+* Is the data analysis included in the outline? Make sure the data gets copied from your
+  original sources into the MS Word document. I'll only look at the Word
+  document, so if it only exists in an Excel document you won't get credit for it.
+* Do you have a first version of your text processing?
+* Do you have a first version of your pivot table?
+* Do you have a first version of your graph?
+* Do you have an outline showing what you will talk about?
+* Do you show in the outline where you will cite items?
+* Do you have at least one additional source that you've pulled into your outline discussion? (Not a raw data source.)
+* Do you have a bibliography that cites the data that you used? And any other background info?s
