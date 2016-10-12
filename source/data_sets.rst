@@ -23,7 +23,7 @@ Health
 * `Center for Disease Control and Prevention <http://www.cdc.gov/datastatistics/>`_ (CDC)
     * `Sexually Transmitted Disease Morbidity <http://wonder.cdc.gov/std.html>`_
     * `Trend Tables <http://www.cdc.gov/nchs/hus/contents2015.htm>`_
-
+* `California Immunization Levels <https://www.cdph.ca.gov/programs/immunize/Pages/ImmunizationLevels.aspx>`_
 
 Crime
 -----
@@ -38,6 +38,7 @@ Education
 
 * `NCAA Graduation Success Rates <http://www.icpsr.umich.edu/icpsrweb/NCAA/studies/30022>`_
 * `National Center for Education Statistics <https://nces.ed.gov/ipeds/datacenter/>`_ (IPEDS)
+* `California ACT/SAT data <http://www.cde.ca.gov/ds/sp/ai/>`_
 
 Economy
 -------
@@ -57,23 +58,3 @@ Sports
 * `College Football Statistics <http://www.cfbstats.com/>`_
 * `NCAA Statistics <http://web1.ncaa.org/stats/StatsSrv/careersearch>`_
 
-Weather
--------
-
-Weather from NOAA (`Site <https://www.ncdc.noaa.gov/cdo-web/datasets>`_, `FTP <ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/>`_)
-
-File info:
-
-* weather/ghcnd-stations.txt -- List of stations. Egrep what you want
-* weather/*.dly -- Weather files. Format description is `here <ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt>`_
-
-Example processing weather data:
-
-* ``egrep TMAX USC00134063.dly | sed 's/^.\{11\}//' | sed 's/[0−9] .*/\1/' | sed 's/TMAX//' | sed 's/^[* 0−9]{4}/\1 /' | sed 's/^.{11}[0−9]/\1\.\2/' > ../craven.csv``
-* ``egrep TMAX USC00134063.dly`` # Search the text file for 'TMAX* ' which is the temperature maximum
-* ``sed 's/^.\{11\}//'`` # Use sed and regular expressions. From * the beginning of the line, remove 11 characters
-* ``sed 's/[0−* 9] .*/\1/'`` # Use sed to remove all of the line after the last temp reading.
-* ``sed 's/TMA* X//'`` # Remove the TMAX from the line
-* ``sed 's/^[0−9]{4}/\1 /'`` # Add a space after the year so it doesn't run into the month
-* ``sed 's/^.{11}[0−9]/\1\.\2/'`` # Add a decimal into the number, because 345 is actually 34.5
-* ``> ../craven.csv`` # Redirect to a file. Do it one directory up because there are way too many files here
