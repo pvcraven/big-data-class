@@ -11,3 +11,4 @@ Assignments
    paper_1_v1/paper_1_v1.rst
    paper_1_v2/paper_1_v2.rst
    paper_2_prework/paper_2_prework.rst
+   paper_2/paper_2.rst
