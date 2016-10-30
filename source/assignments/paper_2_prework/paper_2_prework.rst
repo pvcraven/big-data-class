@@ -28,6 +28,8 @@ The final paper should have the following parts:
       the reader what you can do with the data. Write your introduction accordingly.
 * Text Processing
 	* Search up something out of the text files.
+	* Create something new. Don't just re-create what we did with the name processing.
+	  At the very least, compare name trends in different states.
 	* Describe what you are doing for processing, and how you are doing it.
 	* Talk very specifically about the results.
 	* If you want, you can feed this data into the graph and/or pivot table.
@@ -42,6 +44,9 @@ The final paper should have the following parts:
 	* Make one or more pivot tables that inform the reader.
 	* Specify how you created the table. Where you got the data from.
 	* Tell why the data you are showing matters and what you can do with it.
+	* Create a pivot table that shows the power of what a pivot table can do.
+	  Don't just create a pivot table that is a recreation of the original table.
+	  Part of the purpose here is to show the user what a pivot table can do.
 * Conclusion
 * Bibliography
 * Also - Upload your supporting Excel files.
