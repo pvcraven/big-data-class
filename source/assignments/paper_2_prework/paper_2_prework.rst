@@ -27,35 +27,39 @@ The final paper should have the following parts:
       on football. Your goal is to show
       the reader what you can do with the data. Write your introduction accordingly.
     * Clearly label the thesis.
+
 * Text Processing
-	* Search up something out of the text files.
-	* Create something new. Don't just re-create what we did with the name processing.
-	  At the very least, compare name trends in different states.
-	* Describe what you are doing for processing, and how you are doing it.
-	* Talk very specifically about the results.
-	* If you want, you can feed this data into the graph and/or pivot table.
+    * Search up something out of the text files.
+    * Create something new. Don't just re-create what we did with the name processing.
+      At the very least, compare name trends in different states.
+    * Describe what you are doing for processing, and how you are doing it.
+    * Talk very specifically about the results.
+    * If you want, you can feed this data into the graph and/or pivot table.
     * Do **not** do the exact same thing we did in class. Process different text
       files than the "name" text files. (You can compare names between states,
       that would be new.)
+
 * Graph
-	* Graph the data.
-	* Label your x and y axis. Give the graph a title.
-	* Describe in detail what this graph is showing. Don't just graph some random
-	  thing. Graph data that is informative.
-	* Then describe why it matters, and what exactly you can derive from that data.
+    * Graph the data.
+    * Label your x and y axis. Give the graph a title.
+    * Describe in detail what this graph is showing. Don't just graph some random
+      thing. Graph data that is informative.
+    * Then describe why it matters, and what exactly you can derive from that data.
     * Not all data sets I've listed are good for pivot tables. For pivot tables
       you need data that has multiple categories on each line.
       Out of the :ref:`data_sets`, I'd recommend looking at:
-       * California ACT/SAT data
-       * Minnesota Payroll Data
+
+        * California ACT/SAT data
+        * Minnesota Payroll Data
+
 * Pivot Table
-	* Use a pivot table.
-	* Make one or more pivot tables that inform the reader.
-	* Specify how you created the table. Where you got the data from.
-	* Tell why the data you are showing matters and what you can do with it.
-	* Create a pivot table that shows the power of what a pivot table can do.
-	  Don't just create a pivot table that is a recreation of the original table.
-	  Part of the purpose here is to show the user what a pivot table can do.
+    * Use a pivot table.
+    * Make one or more pivot tables that inform the reader.
+    * Specify how you created the table. Where you got the data from.
+    * Tell why the data you are showing matters and what you can do with it.
+    * Create a pivot table that shows the power of what a pivot table can do.
+      Don't just create a pivot table that is a recreation of the original table.
+      Part of the purpose here is to show the user what a pivot table can do.
 * Conclusion
 * Bibliography
 * Also - Upload your supporting Excel files.

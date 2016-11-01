@@ -1,7 +1,8 @@
-Assignment 9: Salary Research Essay
-===================================
+Assignment 10: Salary Research Essay
+====================================
 
-Take a look at the PayScale Research Site
+Take a look at the
+`PayScale Research Site <http://www.payscale.com/research/US/Country=United_States/Salary>`_.
 
 Look at two careers you might be interested in. Write an essay on the data that you see on the site. Feel free to cut/paste images (ask how to use the 'snip' tool if you need) to help your essay.
 
