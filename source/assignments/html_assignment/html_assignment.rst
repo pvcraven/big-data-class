@@ -1,7 +1,8 @@
 Assignment 8: HTML Assignment
 =============================
 
-Use the lesson on HTML and create your own web page. Make the web page about you, your dog, your favorite team, or how awesome the new Star Wars trailer is.
+Use the lesson on HTML and create your own web page. Make the web page about
+you, your dog, your favorite team, or whatever.
 
 Use many of the elements we learned in class.
 
