@@ -15,3 +15,4 @@ Assignments
    paper_2/paper_2.rst
    salary_research/salary_research.rst
    paper_3/paper_3.rst
+   paper_3/annotated_bibliography.rst
