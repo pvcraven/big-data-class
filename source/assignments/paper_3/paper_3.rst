@@ -94,8 +94,8 @@ research results separately and be graded separately.
 
 **Step 4:** Bring it together. Make a cohesive outline. Pull the research and
 sources into a final paper. Edit it and create a draft copy. Each person reviews
-the draft and improves it. Then submit and get Lauren's feedback. No draft, no
-grade for the final paper.
+the draft and improves it. Then submit and get the Writing Fellow's feedback.
+No draft, no grade for the final paper.
 
 **Step 5:** Create a presentation. Use Presi or some other tool that allows
 each team member to contribute. Turn it in. All members get the same grade.
@@ -105,7 +105,3 @@ each team member to contribute. Turn it in. All members get the same grade.
 
 **Step 7:** Turn in your final paper. All group members get the same grade.
 
-Annotated Bibliography
-
-
-Research
