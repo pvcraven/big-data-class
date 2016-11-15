@@ -18,7 +18,7 @@ Turn in an MS Word document with your research.
 * Once you've got you data, you'll put the analysis of your group together and
   then writing a paper around it.
 
-.. image:: rubric.png
+.. image:: research_rubric.png
     :width: 550px
     :align: center
     :alt: Rubric
