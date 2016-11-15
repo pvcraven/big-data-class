@@ -16,3 +16,4 @@ Assignments
    salary_research/salary_research.rst
    paper_3/paper_3.rst
    paper_3/annotated_bibliography.rst
+   paper_3/data.rst
